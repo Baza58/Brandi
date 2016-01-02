@@ -13,12 +13,17 @@ p {
 	padding: 0px;
 	margin: 0px;
 }
+input {
+	-webkit-appearance: none;
+	-webkit-border-radius:0; 
+    border-radius:0;
+}
 a {
 	text-decoration: none;
 	color: white;
 }
 body {
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', Arial;
 }
 :root {
 	font-size: 16px;
